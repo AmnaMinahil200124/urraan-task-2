@@ -1,0 +1,126 @@
+.logo{
+    height: 200px;
+    width: 350px;
+    margin-left: 100px;
+}
+
+.heading1{
+    margin-left: 70px;
+    padding-bottom: 10px;
+    margin-top: -1px;
+}
+.heading2{
+    color: gray;
+    padding-left: 150px;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+.app{
+    height: 100px;
+    width: 200px;
+    padding-top: 30px;
+    margin-left: 60px;
+    padding-right:10px ;
+}
+ 
+.android{
+    height: 100px;
+    width: 200px;
+}
+
+.phones3{
+   height: 500px;
+   padding-left: 600px;
+   margin-top: -400px;  
+}
+
+.hphones{
+    height: 550px;
+}
+
+.channels{
+    font-size: 40px;
+    margin-left: 800px;
+    margin-top: -400px;
+}
+
+.parachannel{
+    color: gray;
+   margin-left: 450px;
+  font-size: 30px;  
+  text-align: center;
+}
+
+.phone2{
+    margin-right: 10px;
+    margin-left: 700px;
+    margin-top: 150px; 
+    height: 500px;
+}
+
+.messages{
+    font-size: 40px;
+    margin-left: 350px;
+    margin-top: -300px;
+}
+
+.para2{
+    padding-right: 450px;
+     color: gray;
+     font-size: 30px;
+     text-align: center;  
+    
+}   
+
+.tickets{
+    height: 100px;
+    margin-top: 200px ;
+    margin-left: 550px;
+}
+.phone{
+    height: 700px;
+    margin-top: -200px;
+}
+
+.future{
+    font-size: 40px; 
+    margin-left: 800px;
+    margin-top: -400px;
+}
+
+.para3{
+    color: gray;
+   margin-left: 470px;
+  font-size: 30px;  
+    text-align: center;
+}
+
+.para4{
+    color: rgb(18, 19, 19);
+    font-size: 25px;
+    margin-top: 250px;
+    margin-left: 500px;
+}
+.app2{
+    height: 100px;
+    width: 200px;
+   margin-left: 450px;
+   padding-right:10px ;
+}
+
+ 
+.android2{
+    height: 100px;
+    width: 200px;
+}
+
+.question{
+    margin-left: 450px;
+   font-size: 23px;
+}
+
+.last{
+    margin-left: 550px;
+}
+
